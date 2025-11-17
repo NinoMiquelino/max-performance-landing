@@ -84,7 +84,7 @@ max-performance-landing/
 ├──index.html              # Arquivo principal
 ├── script.js
 ├── style.css
-├──README.md              # Documentação
+├── README.md              # Documentação
 └──.gitignore            # Arquivo gitignore
 ```
 
@@ -161,8 +161,6 @@ Compressão Gzip/Brotli
 ---
 
 ⭐ Se este projeto te ajudou, deixe uma estrela no repositório!
-
-```
 
 ---
 
